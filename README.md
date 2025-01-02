@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ``` js
-const Sobre mi = {
+const sobreMi = {
    pronouns: "he" | "him",
    code: [Javascript, Typescript, HTML, CSS, Java],
    technologies: {
