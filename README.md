@@ -1,5 +1,26 @@
 ## Hi there 👋
 
+''' js
+const Sobre mi = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS, Java],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         css: ["Bootstrap", "Material Design"]
+      },
+      backEnd: {
+         java: ["Spring"],
+         js: ["Node"],
+      },
+      databases: ["mySQL", "H2", "Hibernate"],
+   },
+   currentOccupation: ["Student, open for job opportunities"],
+};
+'''
+
+
+
 <!--
 **AlvaroTapia-f/AlvaroTapia-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
