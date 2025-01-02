@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-''' js
+``` js
 const Sobre mi = {
    pronouns: "he" | "him",
    code: [Javascript, Typescript, HTML, CSS, Java],
@@ -17,7 +17,7 @@ const Sobre mi = {
    },
    currentOccupation: ["Student, open for job opportunities"],
 };
-'''
+```
 
 
 
