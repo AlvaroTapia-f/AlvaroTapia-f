@@ -3,17 +3,17 @@
 ``` js
 const sobreMi = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Java],
+   code: [Javascript, Typescript, HTML, CSS, Java, C++],
    technologies: {
       frontEnd: {
-         js: ["React"],
+         js: ["React.js", "Next.js"],
          css: ["Bootstrap", "Material Design"]
       },
       backEnd: {
          java: ["Spring"],
-         js: ["Node"],
+         js: ["Node.js", "Express.js"],
       },
-      databases: ["mySQL", "H2", "Hibernate"],
+      databases: ["mySQL", "H2", "Hibernate", "MongoDB"],
    },
    currentOccupation: ["Student, open for job opportunities"],
 };
